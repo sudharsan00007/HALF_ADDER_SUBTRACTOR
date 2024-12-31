@@ -1,6 +1,6 @@
 # HALF_ADDER_SUBTRACTOR
 
-#DATE : 30.09.2024
+#DATE : 01.10.2024
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
 
