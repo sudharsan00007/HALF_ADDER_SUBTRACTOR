@@ -59,7 +59,9 @@ HALF SUBTRACTOR
 
 
 **Program:**
-
+Developed by: sudharsan s
+reg no:24009664
+```
 i)HALF ADDER
 
 module ha(a,b,sum,carry);
@@ -70,9 +72,9 @@ output sum,carry;
 
 assign sum= (a ^ b);
 
-assign carry
+assign carry =(a & b);
 
-
+endmodule
 
 
 
@@ -92,9 +94,8 @@ endmodule
 
 
 
+```
 
-Developed by: sudharsan s
-reg no:24009664
 
 **RTL Schematic**
 HALF ADDER
